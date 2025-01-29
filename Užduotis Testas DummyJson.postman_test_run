@@ -1,0 +1,4040 @@
+{
+	"id": "fb97b577-ee0a-408d-a968-acf285ceee65",
+	"name": "Užduotis DummyJson",
+	"timestamp": "2025-01-29T13:56:44.639Z",
+	"collection_id": "41095196-9200357b-c97d-4295-a711-a2108b7249d9",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 233,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-01-29T13:56:24.115Z",
+	"totalFail": 179,
+	"results": [
+		{
+			"id": "69bd6586-2d3a-452b-bc76-9dea1a47bd4d",
+			"name": "Generate square image",
+			"url": "https://dummyjson.com/image/150",
+			"time": 435,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				435
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "c16a476d-e652-4f38-bcd2-68bbf8165d6d",
+			"name": "Generate custom size image",
+			"url": "https://dummyjson.com/image/200x100",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "3a607281-fe0a-487b-a5b4-dc2d1916dbe8",
+			"name": "Generate image with custom text",
+			"url": "https://dummyjson.com/image/400x200/008080/ffffff?text=Hello+Peter",
+			"time": 525,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				525
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "f55fde00-9899-44f4-ba41-1ebf4fd0954a",
+			"name": "Generate image with custom colors",
+			"url": "https://dummyjson.com/image/400x200/282828",
+			"time": 972,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				972
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "5188ef31-1753-4fd5-b2a5-2c0d4ec65f75",
+			"name": "Generate image with different formats",
+			"url": "https://dummyjson.com/image/400x200?type=webp&text=I+am+a+webp+image",
+			"time": 809,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				809
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "3cbdcade-14c0-4b2e-9d6c-2861296f7549",
+			"name": "Generate image with custom font family",
+			"url": "https://dummyjson.com/image/400x200/282828?fontFamily=pacifico&text=I+am+a+pacifico+font",
+			"time": 487,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				487
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "10362025-ec87-40d3-bc35-c1a8830e4e21",
+			"name": "Generate image with custom font size",
+			"url": "https://dummyjson.com/image/400x200/008080/ffffff?text=Hello+Peter!&fontSize=16",
+			"time": 946,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				946
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "58fd65a5-1827-4e4e-8766-c6ce6695cf16",
+			"name": "Generate identicon",
+			"url": "https://dummyjson.com/icon/abc123/150",
+			"time": 764,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				764
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "338abf53-f234-470a-b970-d7440094208e",
+			"name": "Login user and get tokens",
+			"url": "https://dummyjson.com/auth/login",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "e3bd7817-abf5-43fc-ae0a-f95ecaeea6fb",
+			"name": "Get current auth user",
+			"url": "https://dummyjson.com/auth/me",
+			"time": 117,
+			"responseCode": {
+				"code": 401,
+				"name": "Unauthorized"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "8402e740-23a2-484f-80a0-520e0aacf9a0",
+			"name": "Refresh auth session",
+			"url": "https://dummyjson.com/auth/refresh",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "6fac7136-f85d-4e26-8fcf-6742cb33d159",
+			"name": "Get all products",
+			"url": "https://dummyjson.com/products",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "c609ee6f-58d5-4f65-b132-9107a70f554d",
+			"name": "Get a single product",
+			"url": "https://dummyjson.com/products/1",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "e2c2295e-3cbe-4ecb-a599-a50b30944c6f",
+			"name": "Search products",
+			"url": "https://dummyjson.com/products/search?q=phone",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "3126bc79-6955-4db7-969d-a93ef076479d",
+			"name": "Limit and skip products",
+			"url": "https://dummyjson.com/products?limit=10&skip=2&select=title,price",
+			"time": 117,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "bc96990d-83b2-44ea-95d6-0f8515fcec57",
+			"name": "Sort products",
+			"url": "https://dummyjson.com/products?sortBy=title&order=asc",
+			"time": 122,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				122
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "ae52248f-9971-49a8-8c24-5004d91aea8a",
+			"name": "Get all products categories",
+			"url": "https://dummyjson.com/products/categories",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": true,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": true,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "339fef92-0527-4ff7-a616-a8d73b1af780",
+			"name": "Get products category list",
+			"url": "https://dummyjson.com/products/category-list",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": true,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": true,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "7a5c2be3-e6c2-4e6e-b8f3-b6a6ac75bcda",
+			"name": "Get products by a category",
+			"url": "https://dummyjson.com/products/category/smartphones",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "cf0f94dd-1205-46c9-bc98-c3bab7b6a1e2",
+			"name": "Add a new product",
+			"url": "https://dummyjson.com/products/add",
+			"time": 113,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				113
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "cfed2326-f5f4-4bc8-8f1d-d03c79f767be",
+			"name": "Update a product",
+			"url": "https://dummyjson.com/products/1",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "c863995e-90d5-4da1-93dc-08f0f632ad3f",
+			"name": "Delete a product",
+			"url": "https://dummyjson.com/products/1",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "7ca67212-f981-4277-bcfe-495df965f13e",
+			"name": "Get all carts",
+			"url": "https://dummyjson.com/carts",
+			"time": 135,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				135
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d319c528-f504-461c-ad24-6507b26635d0",
+			"name": "Get a single cart",
+			"url": "https://dummyjson.com/carts/1",
+			"time": 135,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				135
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "88f6acfe-ca16-4fe6-bc15-46338e0b5cb6",
+			"name": "Get carts by a user",
+			"url": "https://dummyjson.com/carts/user/50",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "22954119-e2cf-4766-afac-457619c66724",
+			"name": "Add a new cart",
+			"url": "https://dummyjson.com/carts/add",
+			"time": 116,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "9a727dca-0630-468a-8e6a-754c456de592",
+			"name": "Update a cart",
+			"url": "https://dummyjson.com/carts/1",
+			"time": 126,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				126
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "300e6bcb-75b0-40fa-b1d8-f7bfc9c58f71",
+			"name": "Delete a cart",
+			"url": "https://dummyjson.com/carts/1",
+			"time": 117,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "8c5032c8-a1f4-4991-90aa-6ceb8aee4d1f",
+			"name": "Get all recipes",
+			"url": "https://dummyjson.com/recipes",
+			"time": 120,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				120
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "8592b823-21aa-491d-9f88-7ce27f5a9e29",
+			"name": "Get a single recipe",
+			"url": "https://dummyjson.com/recipes/18",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "12851172-08ef-4b69-9e63-3944f1fd5be7",
+			"name": "Search recipes",
+			"url": "https://dummyjson.com/recipes/search?q=Margherita",
+			"time": 122,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				122
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "f5395e27-c4d7-4a4a-904f-10af78db02fc",
+			"name": "Limit and skip recipes",
+			"url": "https://dummyjson.com/recipes?limit=10&skip=10&select=name,image",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "bf59d5ae-4593-49df-adff-bfc99fb8bf1b",
+			"name": "Sort recipes",
+			"url": "https://dummyjson.com/recipes?sortBy=name&order=asc",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d8cc7371-765e-4952-b25f-2adfe3abd399",
+			"name": "Get all recipes tags",
+			"url": "https://dummyjson.com/recipes/tags",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": true,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": true,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d2626cca-b6ca-4ff6-a9aa-c4ce80bc1e80",
+			"name": "Get recipes by a tag",
+			"url": "https://dummyjson.com/recipes/tag/Pakistani",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "44ad85ba-85c8-49fb-99ca-b95374cb5c5e",
+			"name": "Get recipes by a meal",
+			"url": "https://dummyjson.com/recipes/meal-type/snack",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "fd079011-19e5-423d-8eff-4ab81ac3baa0",
+			"name": "Get all users",
+			"url": "https://dummyjson.com/users",
+			"time": 124,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				124
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "c0d0bda0-cec8-4159-b162-fb149ac7871e",
+			"name": "Login user and get tokens",
+			"url": "https://dummyjson.com/user/login",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "31ff060c-a4a2-4089-8956-a4e4f17256d6",
+			"name": "Get current authenticated user",
+			"url": "https://dummyjson.com/user/me",
+			"time": 117,
+			"responseCode": {
+				"code": 401,
+				"name": "Unauthorized"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "080dc3bd-b32d-4bc6-a473-8034c670a840",
+			"name": "Get a single user",
+			"url": "https://dummyjson.com/users/1",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "9f7678aa-6efa-4426-8b50-5a4344d7c0b4",
+			"name": "Search users",
+			"url": "https://dummyjson.com/users/search?q=John",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "1e7ba1ca-0c9e-4a96-bc35-926980bbdc5f",
+			"name": "Filter users",
+			"url": "https://dummyjson.com/users/filter?key=hair.color&value=Brown",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "02b30bae-eae3-439c-82c1-5bb6d44b6b5b",
+			"name": "Limit and skip users",
+			"url": "https://dummyjson.com/users?limit=5&skip=10&select=firstName,age",
+			"time": 120,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				120
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "cae5c1fd-625d-4e92-a063-3a4d3c88fbc3",
+			"name": "Limit and skip users",
+			"url": "https://dummyjson.com/users?sortBy=firstName&order=asc",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "161345b8-52ef-4a6d-9944-683edfaea808",
+			"name": "Get user's carts by user id",
+			"url": "https://dummyjson.com/users/6/carts",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "ffc518c4-1540-4c38-8344-3998ca9ccc22",
+			"name": "Get user's posts by user id",
+			"url": "https://dummyjson.com/users/5/posts",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "6df98bef-3e18-4ec4-8256-1eca85ff613f",
+			"name": "Get user's todos by user id",
+			"url": "https://dummyjson.com/users/8/todos",
+			"time": 161,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				161
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d9df4eb0-4223-49f8-9863-064e3eda0a91",
+			"name": "Add a new user",
+			"url": "https://dummyjson.com/users/add",
+			"time": 115,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "241efc58-b848-4016-8bdf-d7071c452804",
+			"name": "Update a user",
+			"url": "https://dummyjson.com/users/2",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "63ace0fe-334c-4307-a46d-ed6a709895db",
+			"name": "Delete a user",
+			"url": "https://dummyjson.com/users/1",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "a7ee0f92-fb17-4623-9b60-6f75a027e941",
+			"name": "Get all posts",
+			"url": "https://dummyjson.com/posts",
+			"time": 151,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				151
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "6205cea6-a3ff-46a5-b827-15d3de37b9ee",
+			"name": "Get a single post",
+			"url": "https://dummyjson.com/posts/251",
+			"time": 137,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				137
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "f70e02ce-ce20-4d97-ad74-69ab5d0f37e0",
+			"name": "Search posts",
+			"url": "https://dummyjson.com/posts/search?q=sea",
+			"time": 139,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				139
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "5e0552a5-d4fc-4767-8ad4-921a68ba663c",
+			"name": "Limit and skip posts",
+			"url": "https://dummyjson.com/posts?limit=22&skip=1&select=title,reactions,userId",
+			"time": 123,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				123
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "39824b57-6055-4a4e-a05e-d42158afc2b6",
+			"name": "Sort posts",
+			"url": "https://dummyjson.com/posts?sortBy=a-z&order=asc",
+			"time": 137,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				137
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "fb904eb0-72ca-4462-9dcc-c39db5d7c96d",
+			"name": "Get all posts tags",
+			"url": "https://dummyjson.com/posts/tags",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": true,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": true,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "e70682ff-ba92-42a5-80f9-61a56324916a",
+			"name": "Get posts tag list",
+			"url": "https://dummyjson.com/posts/tag-list",
+			"time": 118,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": true,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				118
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": true,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "81bcb7b6-d935-4d05-82af-8e0574e17e7c",
+			"name": "Get posts by a tag",
+			"url": "https://dummyjson.com/posts/tag/life",
+			"time": 117,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "ce78e048-9ae0-4fb0-8cb9-a000336f07a5",
+			"name": "Get all posts by user id",
+			"url": "https://dummyjson.com/posts/user/203",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "0635bac4-02b3-472b-be2d-79679e82c502",
+			"name": "Get post's comments",
+			"url": "https://dummyjson.com/posts/4/comments",
+			"time": 120,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				120
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "1b1e9605-7f8b-42a1-a899-de6b373a9b9c",
+			"name": "Add a new post",
+			"url": "https://dummyjson.com/posts/add",
+			"time": 116,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "4d080bb9-b430-489f-be64-1edee3a0381c",
+			"name": "Update a post",
+			"url": "https://dummyjson.com/posts/1",
+			"time": 120,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				120
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "a4257759-47af-4cd3-902c-780b6d5ad849",
+			"name": "Delete a post",
+			"url": "https://dummyjson.com/posts/9",
+			"time": 121,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				121
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "4841769e-e215-4333-b634-0bac7e42b709",
+			"name": "Get all comments",
+			"url": "https://dummyjson.com/comments?limit=0",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": true
+				}
+			]
+		},
+		{
+			"id": "271db347-11b0-4ee9-840c-d08c1b368ba4",
+			"name": "Get a single comment",
+			"url": "https://dummyjson.com/comments/18",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "f5aafb04-36c2-4ce7-9661-35c0f8014d2f",
+			"name": "Limit and skip comments",
+			"url": "https://dummyjson.com/comments?limit=10&skip=10&select=body,postId",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "e2d62cdc-2e92-447d-af7c-be6bf4bc7986",
+			"name": "Get all comments by post id",
+			"url": "https://dummyjson.com/comments/post/9",
+			"time": 120,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				120
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "9e5fc477-40cd-402d-a042-414129554886",
+			"name": "Add a new comment",
+			"url": "https://dummyjson.com/comments/add",
+			"time": 117,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "795bbf81-3639-4564-87a2-c5e31767c925",
+			"name": "Update a comment",
+			"url": "https://dummyjson.com/comments/17",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "5a921758-c051-47fa-a780-6c9b009e1adf",
+			"name": "Delete a comment",
+			"url": "https://dummyjson.com/comments/81",
+			"time": 116,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				116
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d2a11919-e8f3-490f-890b-1480fac84132",
+			"name": "Get all todos",
+			"url": "https://dummyjson.com/todos",
+			"time": 112,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				112
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "32564875-0b46-4fe9-85df-f040d13a2661",
+			"name": "Get a single todo",
+			"url": "https://dummyjson.com/todos/19",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "cfef29e9-0359-4885-ab73-9aa18bf244af",
+			"name": "Get a random todo",
+			"url": "https://dummyjson.com/todos/random",
+			"time": 117,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "7fc13c65-4992-4e15-96d1-95e7a3596faa",
+			"name": "Limit and skip todos",
+			"url": "https://dummyjson.com/todos?limit=3&skip=91",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "b2b1de1a-959d-4e03-979c-a41a642279fb",
+			"name": "Get all todos by user id",
+			"url": "https://dummyjson.com/todos/user/7",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d77be355-8a61-473f-9b81-98ebcc3a8db2",
+			"name": "Add a new todo",
+			"url": "https://dummyjson.com/todos/add",
+			"time": 117,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				117
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "626fe4a8-d0fe-4f9b-9cdd-bdbd98582070",
+			"name": "Update a todo",
+			"url": "https://dummyjson.com/todos/1",
+			"time": 113,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				113
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "53171f8d-ce28-426d-b8e7-62779d06618c",
+			"name": "Delete a todo",
+			"url": "https://dummyjson.com/todos/14",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "1258eeb0-aa6f-48bb-8944-10ba0a74ffc6",
+			"name": "Get all quotes",
+			"url": "https://dummyjson.com/quotes",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "09c9ad37-66e4-485b-b9fe-e13bcb1aefc5",
+			"name": "Get a single quote",
+			"url": "https://dummyjson.com/quotes/11",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "d772d48b-6551-4c99-b6e0-39a00959b05d",
+			"name": "Get a random quote",
+			"url": "https://dummyjson.com/quotes/random",
+			"time": 115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				115
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		},
+		{
+			"id": "a8c749d0-512e-4591-a16a-32ff336468da",
+			"name": "Limit and skip quotes",
+			"url": "https://dummyjson.com/quotes?limit=3&skip=85",
+			"time": 114,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is one of json, webp, jpg, or png": true,
+				"Nėra klaidų kiekviename elemente": false,
+				"Patikrinama, kiek komentarų turi post ID 46": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is one of json, webp, jpg, or png": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Nėra klaidų kiekviename elemente": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Patikrinama, kiek komentarų turi post ID 46": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				114
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is one of json, webp, jpg, or png": true,
+					"Nėra klaidų kiekviename elemente": false,
+					"Patikrinama, kiek komentarų turi post ID 46": false
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 13885,
+	"collection": {
+		"requests": [
+			{
+				"id": "69bd6586-2d3a-452b-bc76-9dea1a47bd4d",
+				"method": "GET"
+			},
+			{
+				"id": "c16a476d-e652-4f38-bcd2-68bbf8165d6d",
+				"method": "GET"
+			},
+			{
+				"id": "3a607281-fe0a-487b-a5b4-dc2d1916dbe8",
+				"method": "GET"
+			},
+			{
+				"id": "f55fde00-9899-44f4-ba41-1ebf4fd0954a",
+				"method": "GET"
+			},
+			{
+				"id": "5188ef31-1753-4fd5-b2a5-2c0d4ec65f75",
+				"method": "GET"
+			},
+			{
+				"id": "3cbdcade-14c0-4b2e-9d6c-2861296f7549",
+				"method": "GET"
+			},
+			{
+				"id": "10362025-ec87-40d3-bc35-c1a8830e4e21",
+				"method": "GET"
+			},
+			{
+				"id": "58fd65a5-1827-4e4e-8766-c6ce6695cf16",
+				"method": "GET"
+			},
+			{
+				"id": "338abf53-f234-470a-b970-d7440094208e",
+				"method": "POST"
+			},
+			{
+				"id": "e3bd7817-abf5-43fc-ae0a-f95ecaeea6fb",
+				"method": "GET"
+			},
+			{
+				"id": "8402e740-23a2-484f-80a0-520e0aacf9a0",
+				"method": "POST"
+			},
+			{
+				"id": "6fac7136-f85d-4e26-8fcf-6742cb33d159",
+				"method": "GET"
+			},
+			{
+				"id": "c609ee6f-58d5-4f65-b132-9107a70f554d",
+				"method": "GET"
+			},
+			{
+				"id": "e2c2295e-3cbe-4ecb-a599-a50b30944c6f",
+				"method": "GET"
+			},
+			{
+				"id": "3126bc79-6955-4db7-969d-a93ef076479d",
+				"method": "GET"
+			},
+			{
+				"id": "bc96990d-83b2-44ea-95d6-0f8515fcec57",
+				"method": "GET"
+			},
+			{
+				"id": "ae52248f-9971-49a8-8c24-5004d91aea8a",
+				"method": "GET"
+			},
+			{
+				"id": "339fef92-0527-4ff7-a616-a8d73b1af780",
+				"method": "GET"
+			},
+			{
+				"id": "7a5c2be3-e6c2-4e6e-b8f3-b6a6ac75bcda",
+				"method": "GET"
+			},
+			{
+				"id": "cf0f94dd-1205-46c9-bc98-c3bab7b6a1e2",
+				"method": "POST"
+			},
+			{
+				"id": "cfed2326-f5f4-4bc8-8f1d-d03c79f767be",
+				"method": "PUT"
+			},
+			{
+				"id": "c863995e-90d5-4da1-93dc-08f0f632ad3f",
+				"method": "DELETE"
+			},
+			{
+				"id": "7ca67212-f981-4277-bcfe-495df965f13e",
+				"method": "GET"
+			},
+			{
+				"id": "d319c528-f504-461c-ad24-6507b26635d0",
+				"method": "GET"
+			},
+			{
+				"id": "88f6acfe-ca16-4fe6-bc15-46338e0b5cb6",
+				"method": "GET"
+			},
+			{
+				"id": "22954119-e2cf-4766-afac-457619c66724",
+				"method": "POST"
+			},
+			{
+				"id": "9a727dca-0630-468a-8e6a-754c456de592",
+				"method": "PUT"
+			},
+			{
+				"id": "300e6bcb-75b0-40fa-b1d8-f7bfc9c58f71",
+				"method": "DELETE"
+			},
+			{
+				"id": "8c5032c8-a1f4-4991-90aa-6ceb8aee4d1f",
+				"method": "GET"
+			},
+			{
+				"id": "8592b823-21aa-491d-9f88-7ce27f5a9e29",
+				"method": "GET"
+			},
+			{
+				"id": "12851172-08ef-4b69-9e63-3944f1fd5be7",
+				"method": "GET"
+			},
+			{
+				"id": "f5395e27-c4d7-4a4a-904f-10af78db02fc",
+				"method": "GET"
+			},
+			{
+				"id": "bf59d5ae-4593-49df-adff-bfc99fb8bf1b",
+				"method": "GET"
+			},
+			{
+				"id": "d8cc7371-765e-4952-b25f-2adfe3abd399",
+				"method": "GET"
+			},
+			{
+				"id": "d2626cca-b6ca-4ff6-a9aa-c4ce80bc1e80",
+				"method": "GET"
+			},
+			{
+				"id": "44ad85ba-85c8-49fb-99ca-b95374cb5c5e",
+				"method": "GET"
+			},
+			{
+				"id": "fd079011-19e5-423d-8eff-4ab81ac3baa0",
+				"method": "GET"
+			},
+			{
+				"id": "c0d0bda0-cec8-4159-b162-fb149ac7871e",
+				"method": "POST"
+			},
+			{
+				"id": "31ff060c-a4a2-4089-8956-a4e4f17256d6",
+				"method": "GET"
+			},
+			{
+				"id": "080dc3bd-b32d-4bc6-a473-8034c670a840",
+				"method": "GET"
+			},
+			{
+				"id": "9f7678aa-6efa-4426-8b50-5a4344d7c0b4",
+				"method": "GET"
+			},
+			{
+				"id": "1e7ba1ca-0c9e-4a96-bc35-926980bbdc5f",
+				"method": "GET"
+			},
+			{
+				"id": "02b30bae-eae3-439c-82c1-5bb6d44b6b5b",
+				"method": "GET"
+			},
+			{
+				"id": "cae5c1fd-625d-4e92-a063-3a4d3c88fbc3",
+				"method": "GET"
+			},
+			{
+				"id": "161345b8-52ef-4a6d-9944-683edfaea808",
+				"method": "GET"
+			},
+			{
+				"id": "ffc518c4-1540-4c38-8344-3998ca9ccc22",
+				"method": "GET"
+			},
+			{
+				"id": "6df98bef-3e18-4ec4-8256-1eca85ff613f",
+				"method": "GET"
+			},
+			{
+				"id": "d9df4eb0-4223-49f8-9863-064e3eda0a91",
+				"method": "POST"
+			},
+			{
+				"id": "241efc58-b848-4016-8bdf-d7071c452804",
+				"method": "PUT"
+			},
+			{
+				"id": "63ace0fe-334c-4307-a46d-ed6a709895db",
+				"method": "DELETE"
+			},
+			{
+				"id": "a7ee0f92-fb17-4623-9b60-6f75a027e941",
+				"method": "GET"
+			},
+			{
+				"id": "6205cea6-a3ff-46a5-b827-15d3de37b9ee",
+				"method": "GET"
+			},
+			{
+				"id": "f70e02ce-ce20-4d97-ad74-69ab5d0f37e0",
+				"method": "GET"
+			},
+			{
+				"id": "5e0552a5-d4fc-4767-8ad4-921a68ba663c",
+				"method": "GET"
+			},
+			{
+				"id": "39824b57-6055-4a4e-a05e-d42158afc2b6",
+				"method": "GET"
+			},
+			{
+				"id": "fb904eb0-72ca-4462-9dcc-c39db5d7c96d",
+				"method": "GET"
+			},
+			{
+				"id": "e70682ff-ba92-42a5-80f9-61a56324916a",
+				"method": "GET"
+			},
+			{
+				"id": "81bcb7b6-d935-4d05-82af-8e0574e17e7c",
+				"method": "GET"
+			},
+			{
+				"id": "ce78e048-9ae0-4fb0-8cb9-a000336f07a5",
+				"method": "GET"
+			},
+			{
+				"id": "0635bac4-02b3-472b-be2d-79679e82c502",
+				"method": "GET"
+			},
+			{
+				"id": "1b1e9605-7f8b-42a1-a899-de6b373a9b9c",
+				"method": "POST"
+			},
+			{
+				"id": "4d080bb9-b430-489f-be64-1edee3a0381c",
+				"method": "PUT"
+			},
+			{
+				"id": "a4257759-47af-4cd3-902c-780b6d5ad849",
+				"method": "DELETE"
+			},
+			{
+				"id": "4841769e-e215-4333-b634-0bac7e42b709",
+				"method": "GET"
+			},
+			{
+				"id": "271db347-11b0-4ee9-840c-d08c1b368ba4",
+				"method": "GET"
+			},
+			{
+				"id": "f5aafb04-36c2-4ce7-9661-35c0f8014d2f",
+				"method": "GET"
+			},
+			{
+				"id": "e2d62cdc-2e92-447d-af7c-be6bf4bc7986",
+				"method": "GET"
+			},
+			{
+				"id": "9e5fc477-40cd-402d-a042-414129554886",
+				"method": "POST"
+			},
+			{
+				"id": "795bbf81-3639-4564-87a2-c5e31767c925",
+				"method": "PUT"
+			},
+			{
+				"id": "5a921758-c051-47fa-a780-6c9b009e1adf",
+				"method": "DELETE"
+			},
+			{
+				"id": "d2a11919-e8f3-490f-890b-1480fac84132",
+				"method": "GET"
+			},
+			{
+				"id": "32564875-0b46-4fe9-85df-f040d13a2661",
+				"method": "GET"
+			},
+			{
+				"id": "cfef29e9-0359-4885-ab73-9aa18bf244af",
+				"method": "GET"
+			},
+			{
+				"id": "7fc13c65-4992-4e15-96d1-95e7a3596faa",
+				"method": "GET"
+			},
+			{
+				"id": "b2b1de1a-959d-4e03-979c-a41a642279fb",
+				"method": "GET"
+			},
+			{
+				"id": "d77be355-8a61-473f-9b81-98ebcc3a8db2",
+				"method": "POST"
+			},
+			{
+				"id": "626fe4a8-d0fe-4f9b-9cdd-bdbd98582070",
+				"method": "PATCH"
+			},
+			{
+				"id": "53171f8d-ce28-426d-b8e7-62779d06618c",
+				"method": "GET"
+			},
+			{
+				"id": "1258eeb0-aa6f-48bb-8944-10ba0a74ffc6",
+				"method": "GET"
+			},
+			{
+				"id": "09c9ad37-66e4-485b-b9fe-e13bcb1aefc5",
+				"method": "GET"
+			},
+			{
+				"id": "d772d48b-6551-4c99-b6e0-39a00959b05d",
+				"method": "GET"
+			},
+			{
+				"id": "a8c749d0-512e-4591-a16a-32ff336468da",
+				"method": "GET"
+			}
+		]
+	}
+}
